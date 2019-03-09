@@ -1,4 +1,4 @@
-# YouTube-PlayList-MP3-Downloader
+# YouTube PlayList MP3 Downloader
 
 A simple script for linux, for download youtube playlist in mp3 format.
 
